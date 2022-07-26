@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/arthurpxx">
@@ -13,8 +13,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
 
